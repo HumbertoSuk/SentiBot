@@ -1,0 +1,292 @@
+texto,sentimiento
+"Hoy ha sido un día maravilloso",Positivo
+"Me siento triste sin razón aparente",Negativo
+"La película que vi anoche fue genial",Positivo
+"Estoy abrumado por el trabajo",Negativo
+"Disfruté mucho la comida de esta noche",Positivo
+"La lluvia siempre me pone de mal humor",Negativo
+"Terminé un proyecto importante hoy",Positivo
+"No puedo superar la pérdida",Negativo
+"La música me hace sentir eufórico",Euforia
+"Me siento vacío y sin motivación",Depresivo
+"Mi equipo ganó el partido, estoy feliz",Positivo
+"La noticia me dejó sin palabras",Negativo
+"Conocí a alguien increíble hoy",Positivo
+"Hoy es un día como cualquier otro",Neutral
+"Perdí las llaves y estoy frustrado",Negativo
+"El sol brilló todo el día",Positivo
+"Estoy emocionado por el próximo evento",Euforia
+"Siento una gran tristeza en mi corazón",Depresivo
+"La naturaleza siempre me relaja",Positivo
+"Las vacaciones fueron increíbles",Positivo
+"Estoy agotado después de tanto trabajo",Negativo
+"Un buen libro siempre levanta mi ánimo",Positivo
+"Me siento desconectado de todo",Depresivo
+"La comida picante me pone de buen humor",Positivo
+"Perdí a mi mascota y estoy devastado",Negativo
+"La reunión fue aburrida y sin inspiración",Negativo
+"Una buena noticia hizo mi día",Positivo
+"Extraño a alguien que ya no está aquí",Negativo
+"El amanecer siempre me llena de energía",Positivo
+"Estoy emocionado por el futuro",Euforia
+"La rutina diaria me hace sentir atrapado",Negativo
+"Un buen amigo siempre ayuda",Positivo
+"Me siento nostálgico por los viejos tiempos",Negativo
+"Logré superar un desafío hoy",Positivo
+"La nieve siempre me pone de buen humor",Positivo
+"Me siento solo en medio de la multitud",Negativo
+"Una llamada de un ser querido alegró mi día",Positivo
+"La monotonía me está consumiendo",Negativo
+"Un abrazo cálido puede cambiar mi estado de ánimo",Positivo
+"Las noticias negativas afectan mi mentalidad",Negativo
+"El aroma de las flores es reconfortante",Positivo
+"El estrés me está afectando",Negativo
+"Una buena noche de sueño hace maravillas",Positivo
+"Me siento perdido y sin rumbo",Depresivo
+"La risa con amigos es incomparable",Positivo
+"Un error en el trabajo me hizo sentir avergonzado",Negativo
+"Me siento inspirado después de leer un buen libro",Positivo
+"La incertidumbre sobre el futuro me preocupa",Negativo
+"Un cumplido inesperado me hizo sonreír",Positivo
+"La ansiedad me está consumiendo",Negativo
+"Estoy agradecido por las pequeñas cosas",Positivo
+"Me siento impotente frente a ciertas situaciones",Negativo
+"El ejercicio me ayuda a liberar el estrés",Positivo
+"Me siento desmotivado en mi trabajo actual",Negativo
+"La playa siempre me relaja",Positivo
+"Un buen resultado en un proyecto me alegra",Positivo
+"Siento una profunda conexión con la naturaleza",Positivo
+"La soledad me está afectando",Negativo
+"El apoyo de un amigo es invaluable",Positivo
+"La inseguridad me hace dudar de mí mismo",Negativo
+"Me siento emocionado por una nueva oportunidad",Euforia
+"La pérdida de algo importante me duele",Negativo
+"Me siento alegre sin razón aparente",Euforia
+"La rutina diaria me aburre",Negativo
+"El logro de una meta me llena de orgullo",Positivo
+"Estoy ansioso por el resultado de un evento importante",Negativo
+"La compañía de seres queridos me hace feliz",Positivo
+"Siento una sensación de vacío interior",Depresivo
+"La creatividad me ayuda a superar los desafíos",Positivo
+"Me siento estancado en mi vida actual",Negativo
+"El olor de la lluvia es refrescante",Positivo
+"La incertidumbre sobre el futuro me preocupa",Negativo
+"Una buena comida siempre mejora mi día",Positivo
+"Me siento apático y sin interés en las cosas",Depresivo
+"La traición de alguien cercano me duele",Negativo
+"Me siento optimista acerca de nuevas oportunidades",Positivo
+"La soledad me está afectando",Negativo
+"Un cumplido inesperado me hizo sonreír",Positivo
+"La ansiedad me está consumiendo",Negativo
+"Estoy agradecido por las pequeñas cosas",Positivo
+"Me siento impotente frente a ciertas situaciones",Negativo
+"El ejercicio me ayuda a liberar el estrés",Positivo
+"Me siento desmotivado en mi trabajo actual",Negativo
+"La playa siempre me relaja",Positivo
+"Un buen resultado en un proyecto me alegra",Positivo
+"Siento una profunda conexión con la naturaleza",Positivo
+"La soledad me está afectando",Negativo
+"El apoyo de un amigo es invaluable",Positivo
+"La inseguridad me hace dudar de mí mismo",Negativo
+"Me siento emocionado por una nueva oportunidad",Euforia
+"La pérdida de algo importante me duele",Negativo
+"Me siento alegre sin razón aparente",Euforia
+"La rutina diaria me aburre",Negativo
+"El logro de una meta me llena de orgullo",Positivo
+"Estoy ansioso por el resultado de un evento importante",Negativo
+"La compañía de seres queridos me hace feliz",Positivo
+"Siento una sensación de vacío interior",Depresivo
+"La creatividad me ayuda a superar los desafíos",Positivo
+"Me siento estancado en mi vida actual",Negativo
+"El olor de la lluvia es refrescante",Positivo
+texto,sentimiento
+"Exploré un lugar nuevo hoy",Positivo
+"Me siento perdido en mi carrera",Negativo
+"Una buena noticia me dio un impulso",Positivo
+"El ruido constante me irrita",Negativo
+"Hoy fue un día tranquilo y relajante",Positivo
+"La presión en el trabajo me abruma",Negativo
+"Una sorpresa agradable mejoró mi día",Positivo
+"Extraño a alguien que está lejos",Negativo
+"Logré superar mi miedo",Positivo
+"Las expectativas no cumplidas me decepcionan",Negativo
+"La música alegre siempre me levanta el ánimo",Positivo
+"Me siento agradecido por la naturaleza",Positivo
+"Las noticias negativas en las redes sociales afectan mi estado de ánimo",Negativo
+"Un gesto amable de un extraño me hizo sonreír",Positivo
+"La falta de sueño afecta mi energía",Negativo
+"Me emociona aprender algo nuevo",Euforia
+"La soledad en la noche me invade",Negativo
+"Disfruté de una noche divertida con amigos",Positivo
+"La ansiedad antes de una presentación es abrumadora",Negativo
+"Una película emocionante me mantuvo entretenido",Positivo
+"Me siento vacío después de una discusión",Negativo
+"Un día nublado afecta mi estado de ánimo",Negativo
+"Un buen libro siempre me transporta a otro mundo",Positivo
+"Me siento desconectado de mi entorno",Negativo
+"La anticipación de las vacaciones me emociona",Euforia
+"La pérdida de un objeto sentimental me entristece",Negativo
+"La risa con amigos es terapéutica",Positivo
+"La falta de motivación afecta mi productividad",Negativo
+"La contemplación de la puesta de sol me llena de paz",Positivo
+"Me siento atrapado en la rutina diaria",Negativo
+"Un cumplido sincero eleva mi autoestima",Positivo
+"La incertidumbre sobre el futuro me preocupa constantemente",Negativo
+"El aroma a café por la mañana es reconfortante",Positivo
+"Las críticas negativas me afectan emocionalmente",Negativo
+"La ayuda de un amigo en tiempos difíciles es invaluable",Positivo
+"Siento un vacío interior que no puedo explicar",Depresivo
+"Logré superar una situación desafiante",Positivo
+"Me siento inspirado después de ver una película motivadora",Positivo
+"La falta de apoyo emocional me hace sentir solo",Negativo
+"Un pequeño logro diario me da una sensación de realización",Positivo
+"La ansiedad social me afecta en situaciones sociales",Negativo
+"Me siento agradecido por las relaciones significativas en mi vida",Positivo
+"La comparación constante con otros me genera insatisfacción",Negativo
+"La perspectiva de un nuevo día me llena de esperanza",Positivo
+"Me siento abrumado por la negatividad a mi alrededor",Negativo
+"La música triste me conmueve profundamente",Negativo
+"La visita de un viejo amigo me llenó de alegría",Positivo
+"La monotonía en el trabajo me aburre",Negativo
+"Un gesto amable de un desconocido me sorprendió",Positivo
+"Me siento emocionado por un nuevo proyecto",Euforia
+"La falta de comunicación en una relación me preocupa",Negativo
+"Me siento afortunado por las oportunidades que tengo",Positivo
+"El estrés laboral afecta mi bienestar emocional",Negativo
+"Una comida casera siempre me reconforta",Positivo
+"La falta de sueño me hace sentir agotado",Negativo
+"La noticia de un ser querido enfermo me entristece",Negativo
+"Un día soleado mejora mi estado de ánimo",Positivo
+"La soledad en la noche me da espacio para reflexionar",Neutral
+"La falta de reconocimiento en el trabajo me frustra",Negativo
+"Me siento inspirado después de una conversación profunda",Positivo
+"El arte siempre despierta mi creatividad",Positivo
+"La decepción de una expectativa no cumplida me duele",Negativo
+"La ayuda de un extraño en un momento difícil me reconforta",Positivo
+"Siento nostalgia por los lugares que solía frecuentar",Negativo
+"Me emociona la llegada de la temporada de festivales",Euforia
+"El cambio de estaciones me trae recuerdos felices",Positivo
+"La falta de tiempo para mí mismo me estresa",Negativo
+"Un logro personal me llena de orgullo",Positivo
+"La incertidumbre sobre el futuro me genera ansiedad",Negativo
+"Me siento conectado con la naturaleza cuando salgo a caminar",Positivo
+"La falta de confianza en mí mismo me limita",Negativo
+"Una sorpresa inesperada me hizo sonreír todo el día",Positivo
+"Siento aprecio por las pequeñas cosas de la vida",Positivo
+"La falta de propósito en mi vida me hace sentir perdido",Negativo
+"Un proyecto exitoso en el trabajo me motiva",Positivo
+"La nostalgia por el pasado a veces me abruma",Negativo
+"Me siento revitalizado después de una siesta corta",Positivo
+"La pérdida de una amistad cercana me duele",Negativo
+"La lectura de un buen libro siempre me transporta",Positivo
+"La falta de comunicación en una amistad me preocupa",Negativo
+"Me siento esperanzado ante nuevas oportunidades",Positivo
+"La traición de un ser querido me deja sin palabras",Negativo
+"Una buena película me entretiene y me relaja",Positivo
+"La rutina diaria a veces me hace sentir atrapado",Negativo
+"El recibimiento cálido de un ser querido me hace sentir amado",Positivo
+"Siento un vacío interior que no sé cómo llenar",Depresivo
+"El éxito de los demás a veces me genera envidia",Negativo
+"La lluvia suave me relaja y me trae paz",Positivo
+"La falta de reconocimiento me hace cuestionar mi valía",Negativo
+"Me siento entusiasmado por un proyecto creativo",Euforia
+"La falta de sentido de pertenencia me entristece",Negativo
+"Me siento alegre sin una razón aparente",Euforia
+"La falta de progreso en mis metas me frustra",Negativo
+"La meditación diaria mejora mi bienestar mental",Positivo
+"La pérdida de un ser querido me sume en la tristeza",Negativo
+"Un gesto amable de un extraño me restaura la fe en la humanidad",Positivo
+"La inseguridad sobre mi apariencia me afecta emocionalmente",Negativo
+"Me siento agradecido por las lecciones que he aprendido",Positivo
+"La falta de tiempo para descansar me agota",Negativo
+"Un encuentro casual con un amigo me alegra el día",Positivo
+"Siento que mi vida carece de propósito",Depresivo
+"La música enérgica siempre me levanta el ánimo",Positivo
+"La falta de apoyo emocional en una relación me duele",Negativo
+"Me emociona la idea de aprender algo nuevo",Euforia
+"La falta de equilibrio entre trabajo y vida personal me estresa",Negativo
+"Una buena noticia cambió mi perspectiva sobre el día",Positivo
+"Me siento desconectado de mi entorno social",Negativo
+"El tiempo en la naturaleza renueva mi energía",Positivo
+"La falta de gratitud de los demás me decepciona",Negativo
+"Me siento inspirado por las historias de éxito de los demás",Positivo
+"La falta de empatía en la sociedad me preocupa",Negativo
+"Un logro significativo en mi carrera me llena de alegría",Positivo
+"Siento que no puedo superar mis errores pasados",Negativo
+"La anticipación de unas vacaciones me emociona",Euforia
+"La pérdida de una amistad cercana me afecta emocionalmente",Negativo
+"La creatividad me ayuda a superar los momentos difíciles",Positivo
+"La falta de confianza en el futuro me genera ansiedad",Negativo
+"Me siento agradecido por las relaciones sólidas en mi vida",Positivo
+"La falta de motivación me impide avanzar",Negativo
+"Un día de descanso mejora mi bienestar general",Positivo
+"La falta de apoyo en momentos difíciles me desanima",Negativo
+"Siento una profunda conexión con la música",Positivo
+"La falta de reconocimiento me hace cuestionar mi valía",Negativo
+"Me siento lleno de energía después de hacer ejercicio",Positivo
+"La falta de reconocimiento en el trabajo me desmotiva",Negativo
+"Una conversación significativa con un amigo me reconforta",Positivo
+"La falta de propósito en mi trabajo actual me frustra",Negativo
+"La lluvia intensa me sume en la melancolía",Negativo
+"La falta de aprecio en una relación me entristece",Negativo
+"Me siento optimista acerca de las posibilidades futuras",Positivo
+"La pérdida de una oportunidad me llena de pesar",Negativo
+"La risa contagiosa de un niño siempre alegra mi día",Positivo
+"La falta de sentido de pertenencia en mi comunidad me afecta",Negativo
+"Me siento lleno de gratitud por las experiencias vividas",Positivo
+"La falta de tiempo para actividades recreativas me estresa",Negativo
+"Un gesto amable de un extraño me devuelve la fe en la humanidad",Positivo
+"Siento que mi vida carece de significado",Depresivo
+"La falta de apoyo en mis proyectos personales me desanima",Negativo
+"La emoción de un logro personal me llena de alegría",Positivo
+"La falta de comprensión en una discusión me frustra",Negativo
+"Me siento empoderado después de superar un desafío",Positivo
+"La falta de tiempo para descansar afecta mi salud mental",Negativo
+"La compañía de amigos íntimos siempre mejora mi día",Positivo
+"Siento que mi creatividad está bloqueada",Negativo
+"Me siento energizado después de un buen descanso nocturno",Positivo
+"La falta de apoyo emocional en una relación me duele",Negativo
+"Me emociona la idea de explorar nuevos lugares",Euforia
+"La falta de reconocimiento me hace sentir invisible",Negativo
+"La paz interior que encuentro al meditar me tranquiliza",Positivo
+"La falta de tiempo para mí mismo me afecta negativamente",Negativo
+"La falta de motivación en mi entorno laboral me frustra",Negativo
+"Un cumplido inesperado me llena de alegría",Positivo
+"La falta de apoyo social en tiempos difíciles me entristece",Negativo
+"Siento que no tengo control sobre mi vida",Depresivo
+"La anticipación de un evento especial me emociona",Euforia
+"La falta de éxito en mis esfuerzos me desanima",Negativo
+"Me siento rejuvenecido después de pasar tiempo en la naturaleza",Positivo
+"La falta de comunicación en una amistad me preocupa",Negativo
+"La satisfacción de completar una tarea me motiva",Positivo
+"La falta de conexión con mi familia me afecta emocionalmente",Negativo
+"La falta de reconocimiento me hace cuestionar mi valía",Negativo
+"Me siento esperanzado después de una charla inspiradora",Positivo
+"La pérdida de una mascota querida me llena de tristeza",Negativo
+"La música relajante siempre mejora mi estado de ánimo",Positivo
+"La falta de progreso en mis metas personales me frustra",Negativo
+"Me siento optimista acerca de las oportunidades de crecimiento",Positivo
+"La falta de apoyo en la toma de decisiones me desconcierta",Negativo
+"La alegría de ver a un ser querido después de mucho tiempo",Positivo
+"Siento que mi vida carece de dirección",Negativo
+"La falta de entusiasmo en mi trabajo actual me desmotiva",Negativo
+"Me siento abrumado por la oscuridad que hay en mi interior", Depresivo
+"Las noticias tristes siempre me afectan profundamente", Negativo
+"Hoy es solo otro día sin emociones", Neutral
+"Un acto de amabilidad inesperado ilumina mi día", Positivo
+"La euforia me envuelve cuando escucho mi canción favorita", Euforia
+"La tristeza me envuelve como una manta fría", Depresivo
+"La falta de apoyo emocional me sume en la negatividad", Negativo
+"No siento nada en particular en este momento", Neutral
+"Cada logro, por pequeño que sea, me llena de alegría", Positivo
+"La sensación de euforia es indescriptible después de una victoria", Euforia
+"La melancolía se apodera de mí sin previo aviso", Depresivo
+"La falta de comprensión en una situación me entristece", Negativo
+"Ni bueno ni malo, solo otro día en mi rutina", Neutral
+"La positividad fluye cuando estoy rodeado de seres queridos", Positivo
+"La anticipación de algo grandioso me llena de euforia", Euforia
+"La desesperanza nubla mi visión del futuro", Depresivo
+"Las experiencias negativas siempre dejan una marca", Negativo
+"El equilibrio entre altibajos define mi estado actual", Neutral
+"Un cumplido inesperado es como un rayo de sol en mi día", Positivo
+"La emoción es contagiosa cuando estoy en un estado eufórico", Euforia
